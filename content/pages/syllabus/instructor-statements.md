@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Syllabus
+parent_type: CourseSection
 parent_uid: 0228f4e5-2710-634c-0713-a6c619621b6e
 title: Instructor Statements
 uid: 611e11f4-e8ea-5ad1-f86b-b08a51f85b7a

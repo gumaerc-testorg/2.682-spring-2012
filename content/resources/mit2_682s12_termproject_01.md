@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains information regarding coupled acoustic normal
   modes and rough surface scattering.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-682-acoustical-oceanography-spring-2012/70c4c4bbfedb587f8bb55d1848986d94_MIT2_682S12_termproject_01.pdf
+file: /media/courses/2-682-acoustical-oceanography-spring-2012/70c4c4bbfedb587f8bb55d1848986d94_MIT2_682S12_termproject_01.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 2.682 Term Project Option 1
 uid: 70c4c4bb-fedb-587f-8bb5-5d1848986d94

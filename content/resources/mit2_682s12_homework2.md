@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding problem set #2.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-682-acoustical-oceanography-spring-2012/9fc34e5bccf7fac1489f660600f4df16_MIT2_682S12_Homework2.pdf
+file: /media/courses/2-682-acoustical-oceanography-spring-2012/9fc34e5bccf7fac1489f660600f4df16_MIT2_682S12_Homework2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Problem Set #2'
 uid: 9fc34e5b-ccf7-fac1-489f-660600f4df16
