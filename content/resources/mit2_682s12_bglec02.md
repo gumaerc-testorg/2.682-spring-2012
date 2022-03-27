@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 590d5193-61ba-4c59-74bb-38c0b4762ca3
 resourcetype: Document
 title: Lecture 2 Background Notes
 uid: 58540cfb-bdd4-2be1-5697-f7a1523f343b
