@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding problem set #5.'
-file: /media/courses/2-682-acoustical-oceanography-spring-2012/fc090da737f1091dd983337ab9494383_MIT2_682S12_Homework5.pdf
+file: /courses/2-682-acoustical-oceanography-spring-2012/fc090da737f1091dd983337ab9494383_MIT2_682S12_Homework5.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Document
 title: 'Problem Set #5'
 uid: fc090da7-37f1-091d-d983-337ab9494383
 ---
+This resource contains information regarding problem set #5.
+

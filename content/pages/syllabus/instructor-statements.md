@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides additional statements from the course instructor
+  to supplement the syllabus.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Syllabus
@@ -19,4 +21,4 @@ As to my offering here, a few notes. First, this course covers a LOT of areas (p
 
 Finally, let me give a big thanks to Jessica Kloss and Molly de Blanc of MIT OCW and Gretchen McManamin of WHOI who did the real legwork on this project, and made it possible. Also, my thanks to the MIT/WHOI Joint Program (a wonderful intersection of two great institutions) which gave me the opportunity to teach through the years. A big thanks to George Frisk, who pretty much got me started on teaching in the Joint Program. The Office of Naval Research also deserves a big thank you, as they were the sponsors of much of the work shown in this course. And finally, my profound thanks to all the students who have taken courses with me throughout the years – they have been a joy to interact with, and have taught me a lot!
 
-[« back to Syllabus]({{< baseurl >}}/pages/syllabus)
+{{% resource_link 0228f4e5-2710-634c-0713-a6c619621b6e "« back to Syllabus" %}}
