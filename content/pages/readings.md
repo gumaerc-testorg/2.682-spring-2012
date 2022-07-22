@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides a list of ocean acoustics textbooks, inverse textbooks,
+  and the schedule of readings by session.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 8f4576d8-22dd-c706-7aef-17008f5819ba
 ---
