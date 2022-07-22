@@ -5,6 +5,7 @@ file: /courses/2-682-acoustical-oceanography-spring-2012/e8982711372f0d28ab1a867
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Lecture 7 Background Notes
 uid: e8982711-372f-0d28-ab1a-86726089ed77
 ---
 This resource contains information regarding lecture 7 background notes.
-

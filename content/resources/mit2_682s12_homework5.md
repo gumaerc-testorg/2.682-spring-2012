@@ -5,6 +5,7 @@ file: /courses/2-682-acoustical-oceanography-spring-2012/fc090da737f1091dd983337
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: 'Problem Set #5'
 uid: fc090da7-37f1-091d-d983-337ab9494383
 ---
 This resource contains information regarding problem set #5.
-
