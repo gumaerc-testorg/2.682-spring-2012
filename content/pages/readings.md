@@ -16,7 +16,7 @@ Ocean Acoustics Textbooks
 
 A complete beginning graduate level text on ray and (especially) mode techniques.
 
-\[COA\] Jensen, Finn B., William A. Kuperman, et al. _Computational Ocean Acoustics_. Springer, 2011. ISBN: 9781441986771. \[Preview with [Google Books](http://books.google.com/books?id=eYyD6kTE8lsC&printsec=frontcover)\]
+\[COA\] Jensen, Finn B., William A. Kuperman, et al. _Computational Ocean Acoustics_. Springer, 2011. ISBN: 9781441986771. \[Preview with {{% resource_link "93cb62b9-bac6-44ca-a88f-d70c51c18944" "Google Books" %}}\]
 
 This is perhaps the most essential text for the "advanced ocean acoustics and numerical methods" part of this course.
 
@@ -28,9 +28,9 @@ Another upper level text covering a wide range of topics in ocean acoustics and 
 
 The predecessor to the updated \[FSWA\] book, wth substantially different material.
 
-\[FSWA\] Katsnelson, Boris G., Valery G. Petnikov, and James Lynch. _Fundamentals of Shallow Water Acoustics_. Springer, 2012. ISBN: 9781441997760. \[Preview with [Google Books](http://books.google.com/books?id=BCJWU5-SWWkC&printsec=frontcover)\]
+\[FSWA\] Katsnelson, Boris G., Valery G. Petnikov, and James Lynch. _Fundamentals of Shallow Water Acoustics_. Springer, 2012. ISBN: 9781441997760. \[Preview with {{% resource_link "3fbbea05-5601-41ae-8f24-2a3aa77078fc" "Google Books" %}}\]
 
-\[M&C\] Medwin, Herman, and Clarence S. Clay. _Fundamentals of Acoustical Oceanography (Applications of Modern Acoustics)_. Academic Press, 1997. ISBN: 9780124875708. \[Preview with [Google Books](http://books.google.com/books?id=kymUKicld2cC&printsec=frontcover)\]
+\[M&C\] Medwin, Herman, and Clarence S. Clay. _Fundamentals of Acoustical Oceanography (Applications of Modern Acoustics)_. Academic Press, 1997. ISBN: 9780124875708. \[Preview with {{% resource_link "62170d56-b57a-4760-a972-9753e65412b9" "Google Books" %}}\]
 
 \[OG\] Ogilvy, J.A. "Theory of Wave Scattering From Random Rough Surfaces." Taylor & Francis, 1991. ISBN: 9780750300636.
 
@@ -43,11 +43,11 @@ Inverse Textbooks
 
 A very nice basic text on linear techniques, as well as weakly non-linear and Bayesian techniques.
 
-\[Sounds\] Medwin, Herman. _Sounds in the Sea: from Ocean Acoustics to Acoustical Oceanography_. Cambridge University Press, 2005. ISBN: 9780521829502. \[Preview with [Google Books](http://books.google.com/books?id=NisMJjej184C&printsec=frontcover)\]
+\[Sounds\] Medwin, Herman. _Sounds in the Sea: from Ocean Acoustics to Acoustical Oceanography_. Cambridge University Press, 2005. ISBN: 9780521829502. \[Preview with {{% resource_link "38751459-569c-4fca-96b4-f4bda6d7e008" "Google Books" %}}\]
 
 The second part of this book, on new frontiers in acoustical oceanography, make it stand out from a "standard text."
 
-\[Mencke\] Menke, William. _Geophysical Data Analysis: Discrete Inverse Theory_. Academic Press, 1989. ISBN: 9780124909212. \[Preview with [Google Books](http://books.google.com/books?id=NvKx-bWJsyUC&printsec=frontcover)\]
+\[Mencke\] Menke, William. _Geophysical Data Analysis: Discrete Inverse Theory_. Academic Press, 1989. ISBN: 9780124909212. \[Preview with {{% resource_link "8a8e41e8-370c-4431-a6ae-6194a0932092" "Google Books" %}}\]
 
 A great basic text.
 
@@ -170,11 +170,11 @@ Sections 5.11.3 and 5.11.4 in \[COA\].
 
 3.2 in \[FSWA\].
 
-Myint-U, Tyn, and Lokenath Debnath. Sections 7.11 and 7.12 in _Linear Partial Differential Equations for Scientists and Engineers_. Birkhäuser, 2006. ISBN: 9780817643935. \[Preview with [Google Books](http://books.google.com/books?id=Zbz5_UvERIIC&printsec=frontcover)\]
+Myint-U, Tyn, and Lokenath Debnath. Sections 7.11 and 7.12 in _Linear Partial Differential Equations for Scientists and Engineers_. Birkhäuser, 2006. ISBN: 9780817643935. \[Preview with {{% resource_link "aec5e9c8-5bb8-44ae-90f9-6afda7a89a34" "Google Books" %}}\]
 
 Sections 9.1, 9.1.1, 9.1.2, 9.1.3, 9.1.4, 9.1.5, 9.2, 9.2.1 and 9.2.2 in \[M&C\].
 
-Tindle, C.T., A. P. Stamp, et al. "[Virtual Modes and the Surface Boundary Condition in Underwater Acoustics](http://dx.doi.org/10.1016/0022-460X(76)90499-5)." _Sound and Vibration_ 49, no. 2 (1976): 231–40.
+Tindle, C.T., A. P. Stamp, et al. "{{% resource_link "c2dac3d5-9217-4e28-b02b-214c7eaf2c13" "Virtual Modes and the Surface Boundary Condition in Underwater Acoustics" %}}." _Sound and Vibration_ 49, no. 2 (1976): 231–40.
 
 
 {{< tdclose >}}
@@ -191,7 +191,7 @@ Sections 5.13, 5.13.1, 5.9, 5.9.1 and 5.9.2 in \[COA\].
 
 Sections 7.3 and 7.3.1 in \[B&L\].
 
-Tindle, C. T., and J. K. Guthrie. "[Rays as Interfering Modes in Underwater Acoustics](http://dx.doi.org/10.1016/S0022-460X(74)80313-5)." _Sound and Vibration_ 34, no. 2 (1974): 291–5.
+Tindle, C. T., and J. K. Guthrie. "{{% resource_link "f1ecbf55-31e3-440e-a045-278a9f5105ff" "Rays as Interfering Modes in Underwater Acoustics" %}}." _Sound and Vibration_ 34, no. 2 (1974): 291–5.
 
 
 {{< tdclose >}}
@@ -315,11 +315,11 @@ Acoustical Oceanography Instrumentation—Brief Overview
 
 Chapters 18 and 22 Wikipedia article on RAFOS floats in \[Sounds\].
 
-Watts, D. Randolph, and H. Thomas Rossby. "[Measuring Dynamic Heights with Inverted Echo Sounders: Results from MODE](http://dx.doi.org/10.1175/1520-0485(1977)007<0345:MDHWIE>2.0.CO;2)." _Physical Oceanography 7_, no. 3 (1977): 345–58.
+Watts, D. Randolph, and H. Thomas Rossby. "{{% resource_link "ea8512a3-7dfa-4ff6-b339-28f2cd9bad77" "Measuring Dynamic Heights with Inverted Echo Sounders: Results from MODE" %}}." _Physical Oceanography 7_, no. 3 (1977): 345–58.
 
-Spain, Peter F., et al. "[PEGASUS: A Simple, Acoustically Tracked Velocity Profiler](http://dx.doi.org/10.1016/0198-0149(81)90097-2)." _Deep Sea Research_ 28, no. 12 (1981): 1553–67.
+Spain, Peter F., et al. "{{% resource_link "361b4fe9-6bb7-43bf-9d5b-4a2428a255d3" "PEGASUS: A Simple, Acoustically Tracked Velocity Profiler" %}}." _Deep Sea Research_ 28, no. 12 (1981): 1553–67.
 
-ADCP references from WHOI [webpage](https://www.whoi.edu/what-we-do/explore/instruments/instruments-sensors-samplers/acoustic-doppler-current-profiler-adcp/)
+ADCP references from WHOI {{% resource_link "ffb7a7ba-416c-46cb-82c9-d6b177b74498" "webpage" %}}
 
 
 {{< tdclose >}}
@@ -361,15 +361,15 @@ Chapter 11 in \[ABT\].
 
 Dosso, and Holland. "Bayesian inversion of seabed reflection data." In _Acoustic Sensing Techniques for the Shallow Water Environment: Inversion Methods and Experiments_. Springer, 2006. ISBN: 9781402043727.
 
-Press, William H., Saul A. Teukolsky, et al. _Numerical Recipes: The Art of Scientific Computing_. Cambridge University Press, 2007. ISBN: 9780521880688. \[Preview with [Google Books](http://books.google.com/books?id=1aAOdzK3FegC&pg=Pafrontcover)\]
+Press, William H., Saul A. Teukolsky, et al. _Numerical Recipes: The Art of Scientific Computing_. Cambridge University Press, 2007. ISBN: 9780521880688. \[Preview with {{% resource_link "731f3ff7-b68e-4339-9f4b-015d5b925c57" "Google Books" %}}\]
 
-Section 10.9 [MATLAB® Central](http://www.mathworks.com/matlabcentral/) webpage article on Simulated Annealing
+Section 10.9 {{% resource_link "dc8be78e-c20c-45eb-92de-576f04370f05" "MATLAB® Central" %}} webpage article on Simulated Annealing
 
-[Wikipedia article on simulated annealing](http://en.wikipedia.org/wiki/Simulated_annealing)
+{{% resource_link "76d30454-297e-4ee5-8d70-681ecb2ab182" "Wikipedia article on simulated annealing" %}}
 
-[Wikipedia article on genetic algorithm](http://en.wikipedia.org/wiki/Genetic_algorithm)
+{{% resource_link "683cc8c5-8fec-49d8-bc5d-85d0a0522720" "Wikipedia article on genetic algorithm" %}}
 
-Collins, Michael D., W. A. Kuperman, et al. "[Nonlinear Inversions for Ocean Bottom Properties](http://dx.doi.org/10.1121/1.404394)." _J. Acoust. Soc. Am_ 92, no. 5 (1992).
+Collins, Michael D., W. A. Kuperman, et al. "{{% resource_link "5c859096-856a-4da7-a836-b13e813f3e73" "Nonlinear Inversions for Ocean Bottom Properties" %}}." _J. Acoust. Soc. Am_ 92, no. 5 (1992).
 {{< tdclose >}}
 
 {{< trclose >}}
