@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information regarding lecture 3 background notes.
 file: /courses/2-682-acoustical-oceanography-spring-2012/c46cef6df0457b15a773c0c5f99c2cec_MIT2_682S12_bglec03.pdf
+file_size: 681502
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
