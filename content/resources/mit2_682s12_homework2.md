@@ -2,6 +2,7 @@
 content_type: resource
 description: 'This resource contains information regarding problem set #2.'
 file: /courses/2-682-acoustical-oceanography-spring-2012/9fc34e5bccf7fac1489f660600f4df16_MIT2_682S12_Homework2.pdf
+file_size: 153449
 file_type: application/pdf
 learning_resource_types:
 - Assignments
