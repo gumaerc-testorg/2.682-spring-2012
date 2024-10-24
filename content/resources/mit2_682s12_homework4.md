@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This resource contains information regarding problem set #4.'
-file: /courses/2-682-acoustical-oceanography-spring-2012/246e2f7b317207759e175215abcb8112_MIT2_682S12_Homework4.pdf
+file: /ol-ocw-studio-app/courses/2-682-acoustical-oceanography-spring-2012/246e2f7b317207759e175215abcb8112_MIT2_682S12_Homework4.pdf
 file_size: 177799
 file_type: application/pdf
 learning_resource_types:
