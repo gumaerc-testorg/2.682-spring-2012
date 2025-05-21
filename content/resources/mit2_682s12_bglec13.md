@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information regarding lecture 13 background notes.
-file: /ol-ocw-studio-app/courses/2-682-acoustical-oceanography-spring-2012/27f301ca1e1e09e0479ec9cdc85b9da0_MIT2_682S12_bglec13.pdf
+file: /courses/2-682-acoustical-oceanography-spring-2012/27f301ca1e1e09e0479ec9cdc85b9da0_MIT2_682S12_bglec13.pdf
 file_size: 671547
 file_type: application/pdf
 learning_resource_types:
