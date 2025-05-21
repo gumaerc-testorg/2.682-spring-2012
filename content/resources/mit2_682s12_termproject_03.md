@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information regarding inverse theory/tomography
   .
-file: /ol-ocw-studio-app/courses/2-682-acoustical-oceanography-spring-2012/c47d14e3e0f4151bc0f6f9266aa7838d_MIT2_682S12_termproject_03.pdf
+file: /courses/2-682-acoustical-oceanography-spring-2012/c47d14e3e0f4151bc0f6f9266aa7838d_MIT2_682S12_termproject_03.pdf
 file_size: 215813
 file_type: application/pdf
 learning_resource_types:
